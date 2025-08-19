@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "identificacion-tanques",
+  "private_key_id": "67ecf030c70712e01735acff7c2b8c94360e306a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDyBqSVryo9/rWQ\nOupdU+9Bh1uFyusI1Ymq1dggFdEBnE+zSRGgHJs6IJHeoJijJpS1KqzBgIdZFP8v\nSsXsH8yA8xvjvyPMABFJHNybb6TmNea6M4uPQychj8URngQ3rd2G/qiWkjJcC1jU\nEuwgkXkytrg+jcoDEZqCgYAa7WJb/VyCHpw3yuCkGwKvXhiQ4W1TZhaUgclCpTaU\nzkAg3s5/YJo67YTHu5uoViwkE0ZiS0KQyN6bMp6etG/tIG8MaPk/5LsKF2mUulkI\nVoxlPJvgJJhnmb9T9M+vgn921JNeHSZ8bdRGIx4XrGnUkl8DGKsoqEpEMMWduUiL\n2f6SyrrzAgMBAAECggEABS5lOZsdYWRhiKvqNoNEfPej2vJkI7VGlDStwsoUxl8N\nSb5HtVDHdfAaj1SKz/tUdahrOF1DCIItkFqecBaiLySFNVPzNTvPIuyOQHmcYx1G\nSjguRavfW5WTV3Q1jOeY9XngLBEHKPdJOIkLKwtSN+a3fQdWCsjGsQKKtojccTGp\nr/fPXQuKCPAT/jY4yvsBvB/fzK/35/PwaULlE4HiEsQAt3CwZWxXqFycIY4aW4j/\n5ISa1pI/gnoC9GZEcxhpsoVU0jlu6l/kQ0aaRQpl2HkkBHES+b6TsrTawmeWnxjx\nz3S/gKJIn5JxyK93FHfZcb5kbX8cR84DRWqVoVNmeQKBgQD5ysuCx/NYmWkYZnl4\nZ0IukEVXInkw2EY7QzWFT/p87D2rv6e7x1pLWzE/Tua5N8e4I5W0dRaeBs+xxOx+\ncvFeO0WsYnY31lY/ZQQCCj8EhdmPyzGPciSq9daM2XmhwpuTksI2p9hdio23aBwP\nWA2/dgHFlO5NANiIGVxwITWz/wKBgQD4CnA7xFds8yLf1M4ucwKPBftbK0dwGtgS\no0kc6M1niOeKxjEyQ5NLbcHBjuHBmZIPWZXQV+gqyxJH2A9Kq+vf0eP3kAuL6sP2\nBsqA7qqXAuTyD7V5/xbcDVKjAxufjhU0r+i/2i4O2wVE65h5pcOXp7t4esst0TE0\nmZCGP8NpDQKBgF8RxvkEfuKWqMAnqE2iBzdPo4RxU2y6s6g0gTc25GANTb+DVySJ\n0BzkHU86CWgvCa1UpdKjybLlZsEC8PuDZcf2iSL96n5/7h18pdTc73UaOF6Y+Ejf\nKYODw1+iGb/uIGY/Mfm5UgjwBdXrItrYKYtYL35ym2vlSYQrGtp2WUkjAoGARCXq\nDCG3u3FZxZGcTFrA+zazhqrvZ7eYYhaGwfCcbrPImfI2Fg9G6tRvBZUSJbTh0mHU\nrXdZjFha325XVTbDCa2LKrti0MBhsrjO7nmkWPUsnez++VPCnhby+2KhNkc9QEqM\nchmpyd8XJYZtUA7hHEuzUDi8lgwBruf6M0hVkgkCgYAM+ySzNenGBGhKO6R7sGE3\n4eFr/YUunk6fMOLrw9/ARHDSLKUy8rNlQVJA2xCHgCe62kUh0/ngKW8a8q2YbuVE\nz1xhvZOi++O+6Ava/3yze1okOYKWBW909lyNAf0DKDX5sliYwP7QE4gq6AmlUqOl\nU+EaGQG+HTJphaazf8J6XA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-registro@identificacion-tanques.iam.gserviceaccount.com",
+  "client_id": "110857617496301518718",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-registro%40identificacion-tanques.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
